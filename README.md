@@ -1,9 +1,9 @@
 xml2csv
 -------
 
-XML is a pain, and the existing Go libraries for dealing with it are in poor shape.
+XML is a pain, and the existing Go libraries for dealing with it are a sad lot.
 
-Herw we convert .xml to .csv (comma separated values) for sane processing.
+Here we convert .xml to .csv (comma separated values) for sane further processing.
 
 This code will parse an XML file on stdin, and write csv to stdout. No schema required.
 
